@@ -1,8 +1,0 @@
-{
- "name": "Angkor Wat Stake Pool",
- "ticker": "WAT",
- "description": "Earn rewards while helping to decentralize the Cardano network",
- "homepage": "https://angkorwatstakepool.net", 
- "nonce": "1633299240"
- "extended": "https://git.io/J2PBS/extended.json"
- }
